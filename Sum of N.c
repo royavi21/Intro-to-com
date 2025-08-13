@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+                                                /*Avijit Roy;
+                                                ID: 12250120719*/
 int main() {
     int n, sum = 0, digit;
 

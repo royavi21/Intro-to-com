@@ -4,7 +4,8 @@ int main() {
 
   int n, i, flag = 0;
   printf("Enter a positive integer: ");
-  scanf("%d", &n);
+  scanf("%d", &n);                                                /*Avijit Roy;
+                                                ID: 12250120719*/
 
   // 0 and 1 are not prime numbers
   // change flag to 1 for non-prime number

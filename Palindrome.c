@@ -2,7 +2,8 @@
 
 int main() {
     int n, original, reverse = 0, digit;
-
+                                                /*Avijit Roy;
+                                                ID: 12250120719*/
     printf("Enter a number: ");
     scanf("%d", &n);
 
